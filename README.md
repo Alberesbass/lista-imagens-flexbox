@@ -35,7 +35,7 @@ Este é um projeto de exercício proposto no curso DevQuest para praticar o uso 
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu_usuario/lista-imagens-flexbox.git
+git clone https://github.com/Alberesbass/lista-imagens-flexbox.git
 ```
 
 2. Navegue até o diretório do projeto:
